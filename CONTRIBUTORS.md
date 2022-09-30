@@ -12,7 +12,7 @@
 | Name | Github Link | Email ID |
 | ------|----------|---------- |
 | Adarsh Addee | <a href="https://github.com/AdarshAddee">Adarsh Addee</a> | <a href="mailto:example@gmail.com">E-Mail</a> |
-
+| Aayan | <a href="https://github.com/1OMKAR7NAM">Aayan</a> | <a href="aayanmalhotra0001@gmail.com">E-Mail</a> |
 
 
 <br>
